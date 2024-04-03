@@ -127,9 +127,8 @@ Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
 You must have the latest version of <a href="golang.org">go</a> installed first
 <pre>
 git clone https://github.com/TamilanBotsZ/PremiumFilter
-cd AwesomeFilterPro
-go build .
-./PremiumFilter
+cd PremiumFilter
+python3 bot.py
 </pre>
 </p>
 </details>
