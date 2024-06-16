@@ -29,13 +29,13 @@ class script(object):
 🎭 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/TMR_movie_request_group>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 📢 TMR ᴜᴘᴅᴀᴛᴇ : <a href=https://t.me/TMR_update_channel>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
-    SOURCES_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Tamilan_BotsZ
+    SOURCES_TXT = """Tʜɪs ɪs ɴᴏᴛ ᴀɴ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ. Bʏ @Vishalku25
 
 - 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/TMR_update_channel>TMR</a>
 
 - & Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
 
-    SOURCE_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Tamilan_BotsZ</b>
+    SOURCE_TXT = """Tʜɪs ɪs ɴᴏᴛ ᴀɴ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ. Bʏ @Vishalku25</b>
 
 - 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/TMR_update_channel>TMR</a></b>
 
